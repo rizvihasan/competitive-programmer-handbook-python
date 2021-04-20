@@ -1,3 +1,4 @@
+import math
 
 # Input -> 10 20 monkey
 a, b, c = raw_input().split(' ')
